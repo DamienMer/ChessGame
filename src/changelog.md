@@ -1,0 +1,2 @@
+- creation of player, piece, selection of piece
+- first commit added : main.cpp Board.cpp Board.h Piece.cpp Piece.h Player.cpp Player.h Makefile
